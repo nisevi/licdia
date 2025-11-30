@@ -95,3 +95,7 @@ La aplicación consta de dos servicios:
 2. Flask recibe la petición en la ruta `/`
 3. Se incrementa el contador `visits` en Redis usando `INCR`
 4. Se devuelve una página HTML con el ID del contenedor y el número de visitas
+
+## Notas
+
+Link para obtener accesso a la resolución del laboratorio haga click [aquí](https://docs.google.com/document/d/1T3XjMkEE3luYyIMRJbZjVEfRL47UOvm8EwrZ9r1PipY/edit?usp=sharing)
