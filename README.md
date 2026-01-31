@@ -110,10 +110,4 @@ docker-compose build --no-cache
 
 Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
 
-## Autor
-
-**Nicolas Sebastian Vidal**
-
----
-
 *Diplomatura de Posgrado - 2025*
